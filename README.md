@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently collaborating on redesigning the curriculum for the Master of Science in Software Engineering
-- 🌱 I’m currently learning new program languages
+### 🔭 I’m currently collaborating on redesigning the curriculum for the Master of Science in Software Engineering
+### 🌱 I’m currently learning new program languages
 
-- 💬 Ask me about gettiing a Master's degree - is is worth it (YES!)
+### 💬 Ask me about getting a Master's degree - is is worth it? YES!
 
 
 -->
